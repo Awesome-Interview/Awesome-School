@@ -19,6 +19,8 @@
 * [中山大学](#中山大学)
 * [东南大学](#东南大学)
 
+---
+
 <img alt="THU-Logo" src="./logo/thu.png" width=100px height=100px/>
 
 ## 清华大学
