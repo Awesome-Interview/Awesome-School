@@ -19,7 +19,7 @@
 * [中山大学](#中山大学)
 * [东南大学](#东南大学)
 
-
+---
 
 ![THU-Logo](/logo/thu.png)
 
@@ -40,13 +40,11 @@ Guidance for courses in Department of Computer Science and Technology, Tsinghua 
 
 ---
 
-
+![PKU-Logo](/logo/pku.png)
 
 ## 北京大学
 
 Peking University (PKU)
-
-
 
 #### libpku
 
@@ -72,7 +70,7 @@ https://lib-pku.github.io/
 
 ---
 
-
+![SJTU-Logo](/logo/sjtu.png)
 
 ## 上海交通大学
 
@@ -89,7 +87,7 @@ Shanghai Jiaotong University (SJTU)
 
 ---
 
-
+![ZJU-Logo](/logo/zju.png)
 
 ## 浙江大学
 
@@ -108,13 +106,11 @@ https://qsctech.github.io/zju-icicles/
 
 ---
 
-
+![USTC-Logo](/logo/ustc.png)
 
 ## 中国科学技术大学
 
 University of Science and Technology of China (USTC)
-
-
 
 #### USTC-Course
 
@@ -127,15 +123,13 @@ https://ustc-resource.github.io/USTC-Course
 ![GitHub stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/USTC-Resource/USTC-Course.svg)
 
---
+---
 
-
+![SYSU-Logo](/logo/sysu.png)
 
 ## 中山大学
 
 Sun Yat-sen University (SYSU)
-
-
 
 #### SYSU-Exam
 
@@ -148,13 +142,11 @@ Sun Yat-sen University (SYSU)
 
 ---
 
-
+![SEU-Logo](/logo/seu.png)
 
 ## 东南大学
 
 Southeast University (SEU)
-
-
 
 #### seucourseshare
 
