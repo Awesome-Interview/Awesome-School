@@ -19,7 +19,7 @@
 * [中山大学](#中山大学)
 * [东南大学](#东南大学)
 
-<img alt="THU-Logo" src="/logo/THU.png" width=100px height=100px/>
+<img alt="THU-Logo" src="./logo/thu.png" width=100px height=100px/>
 
 ## 清华大学
 
@@ -38,7 +38,7 @@ Guidance for courses in Department of Computer Science and Technology, Tsinghua 
 
 ---
 
-<img alt="PKU-Logo" src="/logo/PKU.png" width=100px height=100px/>
+<img alt="PKU-Logo" src="./logo/pku.png" width=100px height=100px/>
 
 ## 北京大学
 
@@ -68,7 +68,7 @@ https://lib-pku.github.io/
 
 ---
 
-<img alt="SJTU-Logo" src="/logo/SJTU.png" width=100px height=100px/>
+<img alt="SJTU-Logo" src="./logo/sjtu.png" width=100px height=100px/>
 
 ## 上海交通大学
 
@@ -85,7 +85,7 @@ Shanghai Jiaotong University (SJTU)
 
 ---
 
-<img alt="ZJU-Logo" src="/logo/ZJU.png" width=100px height=100px/>
+<img alt="ZJU-Logo" src="./logo/zju.png" width=100px height=100px/>
 
 ## 浙江大学
 
@@ -104,7 +104,7 @@ https://qsctech.github.io/zju-icicles/
 
 ---
 
-<img alt="USTC-Logo" src="/logo/USTC.png" width=100px height=100px/>
+<img alt="USTC-Logo" src="./logo/ustc.png" width=100px height=100px/>
 
 ## 中国科学技术大学
 
@@ -123,7 +123,7 @@ https://ustc-resource.github.io/USTC-Course
 
 ---
 
-<img alt="SYSU-Logo" src="/logo/SYSU.png" width=100px height=100px/>
+<img alt="SYSU-Logo" src="./logo/sysu.png" width=100px height=100px/>
 
 ## 中山大学
 
@@ -140,7 +140,7 @@ Sun Yat-sen University (SYSU)
 
 ---
 
-<img alt="SEU-Logo" src="/logo/SEU.png" width=100px height=100px/>
+<img alt="SEU-Logo" src="./logo/seu.png" width=100px height=100px/>
 
 ## 东南大学
 
