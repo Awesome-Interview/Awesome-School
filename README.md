@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <h1>
         Awesome School
     </h1>
