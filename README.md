@@ -36,7 +36,9 @@ Tsinghua University (THU)
 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 
 ![GitHub stars](https://img.shields.io/github/stars/PKUanonym/REKCARC-TSC-UHT.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/PKUanonym/REKCARC-TSC-UHT.svg)
+![GitHub forks](https://img.shields.io/github/forks/PKUanonym/REKCARC-TSC-UHT.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/PKUanonym/REKCARC-TSC-UHT.svg)
+![Last Commit](https://img.shields.io/github/last-commit/PKUanonym/REKCARC-TSC-UHT.svg?color=green)
 
 ---
 
@@ -55,7 +57,9 @@ Peking University (PKU)
 https://lib-pku.github.io/
 
 ![GitHub stars](https://img.shields.io/github/stars/lib-pku/libpku.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/lib-pku/libpku.svg)
+![GitHub forks](https://img.shields.io/github/forks/lib-pku/libpku.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/lib-pku/libpku.svg)
+![Last Commit](https://img.shields.io/github/last-commit/lib-pku/libpku.svg?color=green)
 
 ---
 
@@ -66,7 +70,9 @@ https://lib-pku.github.io/
 北大计算机课程大作业
 
 ![GitHub stars](https://img.shields.io/github/stars/tongtzeho/PKUCourse.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/tongtzeho/PKUCourse.svg)
+![GitHub forks](https://img.shields.io/github/forks/tongtzeho/PKUCourse.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/tongtzeho/PKUCourse.svg)
+![Last Commit](https://img.shields.io/github/last-commit/tongtzeho/PKUCourse.svg?color=green)
 
 ---
 
@@ -83,7 +89,9 @@ Shanghai Jiaotong University (SJTU)
 上海交通大学课程资料分享
 
 ![GitHub stars](https://img.shields.io/github/stars/CoolPhilChen/SJTU-Courses.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/CoolPhilChen/SJTU-Courses.svg)
+![GitHub forks](https://img.shields.io/github/forks/CoolPhilChen/SJTU-Courses.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/CoolPhilChen/SJTU-Courses.svg)
+![Last Commit](https://img.shields.io/github/last-commit/CoolPhilChen/SJTU-Courses.svg?color=green)
 
 ---
 
@@ -102,7 +110,9 @@ Zhejiang University (ZJU)
 https://qsctech.github.io/zju-icicles/
 
 ![GitHub stars](https://img.shields.io/github/stars/QSCTech/zju-icicles.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/QSCTech/zju-icicles.svg)
+![GitHub forks](https://img.shields.io/github/forks/QSCTech/zju-icicles.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/QSCTech/zju-icicles.svg)
+![Last Commit](https://img.shields.io/github/last-commit/QSCTech/zju-icicles.svg?color=green)
 
 ---
 
@@ -121,7 +131,9 @@ University of Science and Technology of China (USTC)
 https://ustc-resource.github.io/USTC-Course
 
 ![GitHub stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/USTC-Resource/USTC-Course.svg)
+![GitHub forks](https://img.shields.io/github/forks/USTC-Resource/USTC-Course.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/USTC-Resource/USTC-Course.svg)
+![Last Commit](https://img.shields.io/github/last-commit/USTC-Resource/USTC-Course.svg?color=green)
 
 ---
 
@@ -138,7 +150,9 @@ Sun Yat-sen University (SYSU)
 收集整理SYSU期末考试卷子、资料
 
 ![GitHub stars](https://img.shields.io/github/stars/sysuexam/SYSU-Exam.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/sysuexam/SYSU-Exam.svg)
+![GitHub forks](https://img.shields.io/github/forks/sysuexam/SYSU-Exam.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/sysuexam/SYSU-Exam.svg)
+![Last Commit](https://img.shields.io/github/last-commit/sysuexam/SYSU-Exam.svg?color=green)
 
 ---
 
@@ -155,7 +169,9 @@ Southeast University (SEU)
 东南大学课程共享计划
 
 ![GitHub stars](https://img.shields.io/github/stars/zjdx1998/seucourseshare.svg?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/zjdx1998/seucourseshare.svg)
+![GitHub forks](https://img.shields.io/github/forks/zjdx1998/seucourseshare.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/zjdx1998/seucourseshare.svg)
+![Last Commit](https://img.shields.io/github/last-commit/zjdx1998/seucourseshare.svg?color=green)
 
 ---
 
