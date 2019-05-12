@@ -21,6 +21,8 @@ Repo描述
 
 ![GitHub stars](https://img.shields.io/github/stars/Repo所有者/Repo名称.svg?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/Repo所有者/Repo名称.svg)
+![Repo size](https://img.shields.io/github/repo-size/Repo所有者/Repo名称.svg)
+![Last Commit](https://img.shields.io/github/last-commit/Repo所有者/Repo名称.svg?color=green)
 
 ---
 ```

@@ -175,3 +175,59 @@ Southeast University (SEU)
 
 ---
 
+<img alt="BJFU-Logo" src="./logo/bjfu.png" width=100px height=100px/>
+
+## 北京林业大学
+
+Beijing Forest University (BJFU)
+
+#### BFU-leaf
+
+[bljx/BFU-leaf](https://github.com/bljx/BFU-leaf)
+
+北京林业大学信息学院课程攻略
+
+![GitHub stars](https://img.shields.io/github/stars/bljx/BFU-leaf.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/bljx/BFU-leaf.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/bljx/BFU-leaf.svg)
+![Last Commit](https://img.shields.io/github/last-commit/bljx/BFU-leaf.svg?color=green)
+
+---
+
+<img alt="GDUT-Logo" src="./logo/gdut.png" width=100px height=100px/>
+
+## 广东工业大学
+
+Guangdong University of Technology (GDUT)
+
+#### gdut-course
+
+[brenner8023/gdut-course](https://github.com/brenner8023/gdut-course)
+
+广东工业大学计算机学院课程攻略
+
+![GitHub stars](https://img.shields.io/github/stars/brenner8023/gdut-course.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/brenner8023/gdut-course.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/brenner8023/gdut-course.svg)
+![Last Commit](https://img.shields.io/github/last-commit/brenner8023/gdut-course.svg?color=green)
+
+---
+
+<img alt="SDUST-Logo" src="./logo/sdust.png" width=100px height=100px/>
+
+## 山东科技大学
+
+Shandong University of Science and Technology (SDUST)
+
+#### sdust-examination-materials
+
+[deepwzh/sdust-examination-materials](https://github.com/deepwzh/sdust-examination-materials)
+
+广东工业大学计算机学院课程攻略
+
+![GitHub stars](https://img.shields.io/github/stars/deepwzh/sdust-examination-materials.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/deepwzh/sdust-examination-materials.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/deepwzh/sdust-examination-materials.svg)
+![Last Commit](https://img.shields.io/github/last-commit/deepwzh/sdust-examination-materials.svg?color=green)
+
+---
