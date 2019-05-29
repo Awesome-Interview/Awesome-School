@@ -247,7 +247,7 @@ Shandong University of Science and Technology (SDUST)
 
 [deepwzh/sdust-examination-materials](https://github.com/deepwzh/sdust-examination-materials)
 
-广东工业大学计算机学院课程攻略
+山东科技大学课程资源共享计划
 
 ![GitHub stars](https://img.shields.io/github/stars/deepwzh/sdust-examination-materials.svg?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/deepwzh/sdust-examination-materials.svg?color=red)
