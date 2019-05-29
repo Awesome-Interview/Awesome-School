@@ -159,6 +159,27 @@ Sun Yat-sen University (SYSU)
 
 ---
 
+<img alt="NJU-Logo" src="./logo/nju.png" width=100px height=100px/>
+
+## 南京大学
+
+Nanjing University (NJU)
+
+#### NJU-Review-Materials
+
+[idealclover / NJU-Review-Materials](https://github.com/idealclover/NJU-Review-Materials)
+
+📝 南哪课程复习资料 Review materials for NJU
+
+[https://onedrive.idealclover.top](https://onedrive.idealclover.top/)
+
+![GitHub stars](https://img.shields.io/github/stars/idealclover/NJU-Review-Materials.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/idealclover/NJU-Review-Materials.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/idealclover/NJU-Review-Materials.svg)
+![Last Commit](https://img.shields.io/github/last-commit/idealclover/NJU-Review-Materials.svg?color=green)
+
+---
+
 <img alt="SEU-Logo" src="./logo/seu.png" width=100px height=100px/>
 
 ## 东南大学
