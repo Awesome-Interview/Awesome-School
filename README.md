@@ -181,6 +181,25 @@ Nanjing University (NJU)
 
 ---
 
+<img alt="BUPT-Logo" src="./logo/bupt.png" width=100px height=100px/>
+
+## 北京邮电大学
+
+Beijing University of Posts and Telecommunications (BUPT)
+
+#### Awesome-BUPT-Projects
+
+[Awesome-BUPT / Awesome-BUPT-Projects](https://github.com/Awesome-BUPT/Awesome-BUPT-Projects)
+
+A curated list of awesome BUPT course projects. Inspired by awesome-... stuff.
+
+![GitHub stars](https://img.shields.io/github/stars/Awesome-BUPT/Awesome-BUPT-Projects.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/Awesome-BUPT/Awesome-BUPT-Projects.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/Awesome-BUPT/Awesome-BUPT-Projects.svg)
+![Last Commit](https://img.shields.io/github/last-commit/Awesome-BUPT/Awesome-BUPT-Projects.svg?color=green)
+
+---
+
 <img alt="SEU-Logo" src="./logo/seu.png" width=100px height=100px/>
 
 ## 东南大学
