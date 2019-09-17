@@ -238,6 +238,25 @@ Beijing Forest University (BJFU)
 
 ---
 
+<img alt="ZZU-Logo" src="./logo/zzu.png" width=100px height=100px/>
+
+## 郑州大学
+
+Zhengzhou University (ZZU)
+
+#### ZZU-Courses-Resource
+
+[CooperNiu/ZZU-Courses-Resource](https://github.com/CooperNiu/ZZU-Courses-Resource)
+
+郑州大学课程资料共享计划
+
+![GitHub stars](https://img.shields.io/github/stars/CooperNiu/ZZU-Courses-Resource.svg?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/CooperNiu/ZZU-Courses-Resource.svg?color=red)
+![Repo size](https://img.shields.io/github/repo-size/CooperNiu/ZZU-Courses-Resource.svg)
+![Last Commit](https://img.shields.io/github/last-commit/CooperNiu/ZZU-Courses-Resource.svg?color=green)
+
+---
+
 <img alt="GDUT-Logo" src="./logo/gdut.png" width=100px height=100px/>
 
 ## 广东工业大学
